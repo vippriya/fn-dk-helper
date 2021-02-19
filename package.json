@@ -1,0 +1,14 @@
+
+{
+    "name": "http-request",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^11.2.3"
+    },
+    "scripts": {
+        "start": "electron."
+    },
+    "dependencies": {
+        "jquery": "^3.5.1"
+    }
+} 
